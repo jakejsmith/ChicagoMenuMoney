@@ -1,4 +1,7 @@
 # Data Dictionary for Chicago Menu Money Expenditures, 2012-2023
+
+![image](https://github.com/jakejsmith/ChicagoMenuMoney/assets/79525163/4e55a7d0-f6e5-40aa-b0c9-48aeed61145f)
+
 **year**
 : The fiscal year of menu money appropriations from which a line-item expenditure is drawn. (In 2012-2020 each ward received $1.32M; starting in 2021, the amount per ward increased to $1.5M.)
 
@@ -6,7 +9,7 @@
 : The ward from whose menu money appropriations a line-item expenditure is drawn. (More information on Chicago wards, including ward maps and the name of the alderperson currently representing each ward, is [available here](https://www.chicago.gov/city/en/about/wards.html).)
 
 **cost**
-: The esetimated cost of the line-item according to Chicago Department of Transportation (CDOT) menu money documents.
+: The estimated cost of the line-item according to original Chicago Department of Transportation (CDOT) menu money documents.
 
 **category**
 : A general classification assigned to each line-item as part of the cleaning and categorization process. The following categories are used: Beautification; Bike Infrastructure; Lighting; Miscellaneous; Parks & Recreation; Plants, Gardens, & Sustainability; Schools & Libraries; Streets & Transportation; Security Cameras. (More information on the categorization hierarchy can be found in the project [README](README.md).)
