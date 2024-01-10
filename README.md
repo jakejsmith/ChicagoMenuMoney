@@ -1,4 +1,4 @@
-# Democratizing Chicago Menu Money Data
+# Democratizing Chicago's Menu Money Data
 Parsing, cleaning, and categorizing Chicago's menu money expenditures.
 
 # Description
