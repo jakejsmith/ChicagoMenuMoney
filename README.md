@@ -43,4 +43,4 @@ Whatever you like. But here are a few ideas for projects that could really make 
 - Investigating whether participatory budgeting has actually changed how wards spend money (and, if so, how)
 
 # Credits
-[Jake J. Smith](www.jakejsmith.com) developed the code and methodology. Special thanks to [Andres Fonseca](https://github.com/fonsecaa) for critical early contributions and for supporting a tiny widdle baby R user.
+[Jake J. Smith](http://www.jakejsmith.com) developed the code and methodology. Special thanks to [Andres Fonseca](https://github.com/fonsecaa) for critical early contributions and for supporting a tiny widdle baby R user.
